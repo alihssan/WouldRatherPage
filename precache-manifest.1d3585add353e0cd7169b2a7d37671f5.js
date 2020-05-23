@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "812164e2a984e324915bbb989769bdf4",
+    "revision": "b01b753cd8563585489cf686f4096310",
     "url": "/WouldRatherPage/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WouldRatherPage/static/css/2.a1ff8c98.chunk.css"
   },
   {
-    "revision": "4edf10db871b1f27a7ec",
+    "revision": "2748430d7c7d3bcda9f4",
     "url": "/WouldRatherPage/static/css/main.750eb057.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WouldRatherPage/static/js/2.02e3d07e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4edf10db871b1f27a7ec",
-    "url": "/WouldRatherPage/static/js/main.40f87337.chunk.js"
+    "revision": "2748430d7c7d3bcda9f4",
+    "url": "/WouldRatherPage/static/js/main.39558c90.chunk.js"
   },
   {
     "revision": "867f67f98166f250082b",
